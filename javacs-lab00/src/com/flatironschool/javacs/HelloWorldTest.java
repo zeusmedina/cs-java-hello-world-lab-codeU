@@ -5,11 +5,11 @@ import static org.junit.Assert.assertTrue;
 /**
  * Created by pletcher on 3/10/16.
  */
-public class MainTest {
+public class HelloWorldTest {
 
     @org.junit.Test
     public void testGetVersion() throws Exception {
-        Main main = new Main();
+        HelloWorld main = new HelloWorld();
         assertTrue(main.getVersion() >= 1.7);
     }
 }
