@@ -1,6 +1,6 @@
 package com.flatironschool.javacs;
 
-public class Main {
+public class HelloWorld {
     public static Double getVersion() {
         // I won't work!
     }

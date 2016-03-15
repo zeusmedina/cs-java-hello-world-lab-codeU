@@ -1,3 +1,5 @@
+bin
+junit
 out
 .DS_Store
 *.swp
